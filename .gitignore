@@ -1,5 +1,7 @@
 .DS_Store
 
+.idea
+
 sgns.wiki.bigram
 
 # Byte-compiled / optimized / DLL files

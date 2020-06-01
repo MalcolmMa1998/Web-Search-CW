@@ -212,7 +212,7 @@ def main():
     dropout_rate = 0.3
     embed_size = 300
     learning_rate = 0.05
-    epoches = 60
+    epoches = 100
 
     # 设置变量,记得相关文件夹改成自己的命名
     dataset_name = 'CHIPmedical'
